@@ -1,0 +1,11 @@
+JWT_SECRET = 67567567567567
+NODE_ENV = development
+MAIL_FROM = Web App <davetparves112@gmail.com>
+SMTP_PASS = fgrslkhwulwswkga
+SMTP_USER = davetparves112@gmail.com
+SMTP_SECURE = false
+SMTP_PORT = 587
+SMTP_HOST = smtp.gmail.com 
+CLERK_SECRET_KEY = sk_test_QUtgyOlMovVzvMo6FhOw9oJypFCyFgEgSrZxiWLK2r
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = pk_test_ZGVmaW5pdGUteWFrLTQuY2xlcmsuYWNjb3VudHMuZGV2JA
+MONGODB_URL = mongodb+srv://jisan:jisan@cluster0.yfzxooe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
